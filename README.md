@@ -32,8 +32,8 @@ _For a working example see [demo](https://raruto.github.io/leaflet-gesture-handl
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"></script>
     <!-- leaflet-gesture-handling -->
-    <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-gesture-handling@latest/dist/leaflet-gesture-handling.min.css" type="text/css">
-    <script src="https://unpkg.com/@raruto/leaflet-gesture-handling@latest/dist/leaflet-gesture-handling.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/@openagenda/leaflet-gesture-handling@latest/dist/leaflet-gesture-handling.min.css" type="text/css">
+    <script src="https://unpkg.com/@openagenda/leaflet-gesture-handling@latest/dist/leaflet-gesture-handling.min.js"></script>
     ...
     </head>
     ```

@@ -7,9 +7,9 @@ import postcssCopy from 'postcss-copy';
 import rollupGitVersion from 'rollup-plugin-git-version';
 import copy from 'rollup-plugin-copy'
 
-import plugin from '../package.json' assert { type: "json" };
+import plugin from '../package.json' with { type: "json" };
 
-let plugin_name = plugin.name.replace("@raruto/", "");
+let plugin_name = plugin.name.replace("@openagenda/", "");
 
 let input = plugin.module;
 let output = {
